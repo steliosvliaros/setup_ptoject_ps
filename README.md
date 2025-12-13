@@ -1,9 +1,3 @@
-Below is a **clean, production-ready README** rewritten specifically for a **PowerShell project template repository**, explicitly referencing the `setup_project_tierX.ps1` scripts and including **concrete usage examples**.
-
-You can paste this directly into `README.md`.
-
----
-
 # PowerShell Project Templates
 
 ## Overview
